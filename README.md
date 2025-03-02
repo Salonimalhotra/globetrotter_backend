@@ -1,1 +1,1 @@
-# globetrotter_backend
+# globetrotter-backend
